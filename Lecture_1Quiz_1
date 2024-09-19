@@ -1,0 +1,6 @@
+Question 3 (1 point)
+What statement best describes the default search path in MATLAB?
+the location of the MATLAB executable
+the location where MATLAB backs up your files when it crashes
+the location where MATLAB saves your files
+a hierarchy of all the folders and subfolders in which all files are automatically included when MATLAB is run
